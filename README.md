@@ -1,2 +1,4 @@
 # zaiyunduandeku
-none
+int main(
+printf("hello world!");
+)
